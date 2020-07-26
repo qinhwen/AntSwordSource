@@ -1,0 +1,41 @@
+{
+  "name": "antsword",
+  "version": "2.1.6",
+  "description": "中国蚁剑是一款跨平台的开源网站管理工具",
+  "main": "app.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "extract-zip": "^1.6.7",
+    "geoips": "0.0.1",
+    "iconv-lite": "^0.4.24",
+    "jschardet": "^1.6.0",
+    "marked": "^0.6.3",
+    "nedb": "^1.5.1",
+    "node-rsa": "^1.0.6",
+    "superagent": "^3.8.3",
+    "superagent-proxy": "^1.0.3",
+    "tar": "^4.4.13",
+    "through": "^2.3.8"
+  },
+  "scripts": {
+    "start": "AntSword app.js",
+    "build": "npm start"
+  },
+  "author": "antoor <u@uyu.us>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntSwordProject/AntSword"
+  },
+  "update": {
+    "md5": "",
+    "logs": "",
+    "sources": {
+      "github": "https://github.com/AntSwordProject/antSword/releases/latest"
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/AntSwordProject/AntSword/issues"
+  },
+  "homepage": "https://github.com/AntSwordProject/AntSword/"
+}
