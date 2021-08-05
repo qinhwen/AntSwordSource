@@ -14,7 +14,7 @@
     "node-rsa": "^1.0.6",
     "superagent": "^3.8.3",
     "superagent-proxy": "^1.0.3",
-    "tar": "^4.4.13",
+    "tar": "^4.4.15",
     "through": "^2.3.8"
   },
   "scripts": {
