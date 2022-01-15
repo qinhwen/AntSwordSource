@@ -9,7 +9,7 @@
     "geoips": "0.0.1",
     "iconv-lite": "^0.4.24",
     "jschardet": "^1.6.0",
-    "marked": "^0.6.3",
+    "marked": "^4.0.10",
     "nedb": "^1.5.1",
     "node-rsa": "^1.0.6",
     "superagent": "^3.8.3",
